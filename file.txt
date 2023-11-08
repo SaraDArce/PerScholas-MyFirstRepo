@@ -1,3 +1,7 @@
 This is the first file in perscholas MyFirstRepo
 
+Writing more on my new branch for another commit
+
+Writing more on my new branch for another commit
+
 Making more changes after creating my-new-branch
